@@ -9,7 +9,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/moinddinrao/project_ai_summarizer", "_blank")
+            window.open("https://github.com/moinuddinrao/project_ai_summarizer", "_blank")
           }
           className='black_btn'
         >
