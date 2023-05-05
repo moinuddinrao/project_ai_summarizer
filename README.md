@@ -2,6 +2,8 @@
 
 ## Introduction
 This is an Article Summarizer Application using OpenAI's GPT model.
+
+# Live Demo: https://ai-summarizer-moin.netlify.app/
  
 Key Features:
 - setup ReactJS using Vite
