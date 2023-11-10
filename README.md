@@ -11,4 +11,4 @@ Key Features:
 - handle form events and catch errors
 - implement copy to clipboard
 
-## Live Demo: https://ai-summarizer-moin.netlify.app/
+## Live Demo: https://project-article-summarizer.netlify.app/
