@@ -1,4 +1,4 @@
-# OpenAI AI Summarizer with React
+# OpenAI Article Summarizer
 
 ## Introduction
 This is an Article Summarizer Application using OpenAI's GPT model.
